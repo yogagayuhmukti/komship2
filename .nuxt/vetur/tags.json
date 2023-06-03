@@ -10,8 +10,5 @@
   },
   "Service": {
     "description": "Auto imported from components/Service.vue"
-  },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
   }
 }

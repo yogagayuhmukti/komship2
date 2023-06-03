@@ -10,4 +10,3 @@ You can directly use them in pages and other components without the need to impo
 - `<NavBar>` | `<nav-bar>` (components/NavBar.vue)
 - `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<Service>` | `<service>` (components/Service.vue)
-- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
