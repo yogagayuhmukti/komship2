@@ -35,7 +35,7 @@
       <div id="mbl-unggulan" style="display: block">
         <div class="row justify-content-between mb-3">
           <div class="col-6 text-left icon-newfeature">
-            <img src="/_nuxt/img/mbl-order.27cc076.svg" alt="produk terlaris" />
+            <img src="~/assets/mbl-order.svg" alt="produk terlaris" />
           </div>
           <div class="col-6 text-right subhead-feature-mobile">
             <div class="subhead-feature">Input Order Masal</div>
@@ -58,10 +58,7 @@
             </div>
           </div>
           <div class="col-6 text-right icon-newfeature">
-            <img
-              src="/_nuxt/img/mbl-dataoto.77a807f.svg"
-              alt="customer loyal"
-            />
+            <img src="~/assets/mbl-dataoto.svg" alt="customer loyal" />
           </div>
           <div class="row justify-content-center mt-4">
             <div class="col-11">
@@ -75,10 +72,7 @@
         </div>
         <div class="row justify-content-between mb-3">
           <div class="col-6 text-left icon-newfeature">
-            <img
-              src="/_nuxt/img/mbl-kendala.6f561a9.svg"
-              alt="top admin order"
-            />
+            <img src="~/assets/mbl-kendala.svg" alt="top admin order" />
           </div>
           <div class="col-6 text-right subhead-feature-mobile">
             <div class="subhead-feature">Pantau Kendala Pengiriman</div>
@@ -96,10 +90,7 @@
       <div id="mbl-tambahan" style="display: none">
         <div class="row justify-content-between mb-3">
           <div class="col-6 text-left icon-newfeature">
-            <img
-              src="/_nuxt/img/produk-terlaris.cabbdcc.svg"
-              alt="produk terlaris"
-            />
+            <img src="~/assets/mbl-produk-terlaris.svg" alt="produk terlaris" />
           </div>
           <div class="col-6 text-right subhead-feature-mobile">
             <div class="subhead-feature">Produk Terlaris</div>
@@ -122,10 +113,7 @@
             </div>
           </div>
           <div class="col-6 text-right icon-newfeature">
-            <img
-              src="/_nuxt/img/customer-loyal.65f57b8.svg"
-              alt="customer loyal"
-            />
+            <img src="~/assets/mbl-customer-loyal.svg" alt="customer loyal" />
           </div>
           <div class="row justify-content-center">
             <div class="col-11">
@@ -139,7 +127,7 @@
         </div>
         <div class="row justify-content-between mb-3">
           <div class="col-6 text-left icon-newfeature">
-            <img src="/_nuxt/img/top-admin.c666b76.svg" alt="top admin order" />
+            <img src="~/assets/mbl-top-admin.svg" alt="top admin order" />
           </div>
           <div class="col-6 text-right subhead-feature-mobile">
             <div class="subhead-feature">Top Admin Order</div>

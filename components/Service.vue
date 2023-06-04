@@ -11,7 +11,7 @@
                   >COD <br />KLIK DISINI buat Lihat Fitur Powerfulnya</span
                 ></span
               >
-              <img src="/_nuxt/img/icon-banner.1885a26.png" alt="" />
+              <img src="~/assets/icon-banner.png" alt="" />
             </div>
           </a>
         </div>
@@ -41,7 +41,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img src="/_nuxt/img/bgwallet.31cb8c9.png" class="icons" /><br />
+              <img src="~/assets/bgwallet.png" class="icons" /><br />
               <span class="title-content">Terima Pembayaran COD Instan</span>
               <p class="description-content">
                 Semua bisa COD di Komship. Otomatis dan tanpa ribet urus
@@ -64,7 +64,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img src="/_nuxt/img/calender.a415e92.png" class="icons" /><br />
+              <img src="~/assets/calender.png" class="icons" /><br />
               <span class="title-content">Pencairan Setiap Hari</span>
               <p class="description-content">
                 Kamu bisa tarik dana COD kapanpun karena pencairan dapat
@@ -87,10 +87,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img
-                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAXVBMVEUAAADo/P7n9/vf///p+/7o+/7p/P/n+vzp+//o+/7p+vrn+v3n+v/o+/5CytGA3OJX0NdW0NaV4+je+Ptr1tzT9fir6e6/7/NMzdR22d912d9h09rJ8vaK3+Wf5utAfccQAAAADXRSTlMA3yAQ75CfYM/PMKBgO5yW1QAAAc9JREFUWMPtmdtu2zAQRBlTFzvpjukldbf8/59ZiUHQCrFUUBqgReHz4rfjoWEtFyPzC1sW50ySyc5Fac13Tnkm+ylOZonN5SC5XcR7k8O8/RbyffIRjO/LfLyMdvKRjDYKc6GRxwMLkfnQhQg1ohUmmTWlUClNIVQKcxEqZ5MJlcwImZfwJWzGfrgtCL02e4VeWzzFqd8jvDtM3LrrgjBEZZUurKZ4ofZPgtcOaO+pQu+Ah6ygU0afKFRAZZUHoIlCBycbBLRpwgaoZYMaaJKECnjZwANjkrDDIJs49EnCgCBfpH2jWQtwlU2ucMeFTT1R8YQeMz0xocNEoAg/D1q1LKGirSYfLaHOnujTjvEbKmbG2SdV7Y8K46z6HLZK+R9qnM9N9DGE0Rc/VSjCLvomvHCEVe3pzzJFOKCXTQJC4oB1ssmQOGDHP18B+ncvKWkRtq8Ul37RP2QVBXTHKqKywmPHKiL3FnDPl6WAOB/ThF/zdAjXBf0NE+6+b+F0eEqrfvdKrF24LRi6sfmXlvaX8D8RsisCfonxIVQK80OolMZmwsQak1NPTK/7+IUkvzLll7r82plfjPOr+xjyyDOY5SfzHVt+XLIdssvi9cdPF9BAri3G9JEAAAAASUVORK5CYII="
-                class="icons"
-              /><br />
+              <img src="~/assets/gaphic-naik.png" /><br />
               <span class="title-content">Lebih Hemat</span>
               <p class="description-content">
                 Dapatkan diskon kirim MULAI dari 25%<!---->
@@ -114,10 +111,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img
-                src="/_nuxt/img/empty-wallet1.df59925.png"
-                class="icons"
-              /><br />
+              <img src="~/assets/empty-wallet1.png" class="icons" /><br />
               <span class="title-content">Biaya COD Termurah</span>
               <p class="description-content">
                 Biaya COD<!---->
@@ -139,7 +133,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img src="/_nuxt/img/rts-icon1.ceb53a5.png" class="icons" /><br />
+              <img src="~/assets/rts-icon1.png" class="icons" /><br />
               <span class="title-content">Gratis Biaya Retur</span>
               <p class="description-content">
                 Khawatir kamu rugi karena retur pelanggan? Tenang, Komship bebas
@@ -163,7 +157,7 @@
         >
           <div class="card content">
             <div class="card-body">
-              <img src="/_nuxt/img/kendaraan.9a2dcd5.png" class="icons" /><br />
+              <img src="~/assets/kendaraan.png" class="icons" /><br />
               <span class="title-content">Gratis Jemput Paket</span>
               <p class="description-content">
                 Cukup tunggu saja di rumah, kurir akan mendatangi lokasimu untuk

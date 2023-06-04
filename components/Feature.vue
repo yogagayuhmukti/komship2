@@ -69,21 +69,21 @@
               class="image-feature-unggulan"
               style="display: block"
             >
-              <img src="/_nuxt/img/bg-ordermasal.a94ed88.png" />
+              <img src="~/assets/bg-ordermasal.png" />
             </div>
             <div
               id="dataoto"
               class="image-feature-unggulan"
               style="display: none"
             >
-              <img src="/_nuxt/img/bg-dataorder.0c2a4af.png" />
+              <img src="~/assets/bg-dataorder.png" />
             </div>
             <div
               id="kendala"
               class="image-feature-unggulan"
               style="display: none"
             >
-              <img src="/_nuxt/img/bg-kendala.2e87fd8.png" />
+              <img src="~/assets/bg-kendala.png" />
             </div>
           </div>
         </div>
@@ -96,10 +96,7 @@
             data-aos-duration="1500"
             class="d-flex aos-init aos-animate"
           >
-            <img
-              src="/_nuxt/img/produk-terlaris.cabbdcc.svg"
-              style="width: 30%"
-            />
+            <img src="~/assets/produk-terlaris.svg" style="width: 30%" />
             <div class="content">
               <span class="title">Produk Terlaris</span>
               <br />
@@ -116,10 +113,7 @@
             data-aos-duration="1500"
             class="d-flex aos-init aos-animate"
           >
-            <img
-              src="/_nuxt/img/customer-loyal.65f57b8.svg"
-              style="width: 30%"
-            />
+            <img src="~/assets/customer-loyal.svg" style="width: 30%" />
             <div class="content">
               <span class="title">Customer Loyal</span>
               <br />
@@ -135,7 +129,7 @@
             data-aos-duration="1500"
             class="d-flex aos-init aos-animate"
           >
-            <img src="/_nuxt/img/top-admin.c666b76.svg" style="width: 30%" />
+            <img src="~/assets/top-admin.svg" style="width: 30%" />
             <div class="content">
               <span class="title">Top Admin Order</span>
               <br />
@@ -152,7 +146,7 @@
         <img
           data-aos="zoom-in"
           data-aos-duration="1500"
-          src="/_nuxt/img/bg-newfeature.02a172d.png"
+          src="~/assets/bg-newfeature.png"
           class="image-feature aos-init aos-animate"
         />
       </div>

@@ -15,7 +15,6 @@ You can directly use them in pages and other components without the need to impo
 - `<FeatureMobile>` | `<feature-mobile>` (components/FeatureMobile.vue)
 - `<Footer>` | `<footer>` (components/Footer.vue)
 - `<Home>` | `<home>` (components/Home.vue)
-- `<Htmlkomship>` | `<htmlkomship>` (components/htmlkomship.vue)
 - `<NavBar>` | `<nav-bar>` (components/NavBar.vue)
 - `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<Recommend>` | `<recommend>` (components/Recommend.vue)

@@ -13,10 +13,10 @@
             <span class="benefit-content-span">COD dan Non-COD</span>
           </div>
           <div class="col-lg-6 d-flex justify-between">
-            <img src="/_nuxt/img/jne-express.fa0c766.png" class="logo" />
-            <img src="/_nuxt/img/logo_sicepat.22fcee9.png" class="logo" />
-            <img src="/_nuxt/img/logo_idexpress.9daac82.png" class="logo" />
-            <img src="/_nuxt/img/sap.a94a375.png" class="logo" />
+            <img src="~/assets/jne-express.png" class="logo" />
+            <img src="~/assets/logo_sicepat.png" class="logo" />
+            <img src="~/assets/logo_idexpress.png" class="logo" />
+            <img src="~/assets/sap.png" class="logo" />
           </div>
         </div>
       </div>

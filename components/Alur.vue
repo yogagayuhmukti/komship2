@@ -19,7 +19,7 @@
             <span>1</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon1.ac210df.svg" />
+            <img src="~/assets/alur-icon1.svg" />
           </div>
           <div class="description">
             <span>Order masuk dari pelanggan</span>
@@ -34,7 +34,7 @@
             <span>2</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon2.669de35.svg" />
+            <img src="~/assets/alur-icon2.svg" />
           </div>
           <div class="description">
             <span>Seller menyiapkan orderan</span>
@@ -49,7 +49,7 @@
             <span>3</span>
           </div>
           <div class="image">
-            < img src="/_nuxt/img/alur-icon3.f97f289.svg">
+            <img src="~/assets/alur-icon3.svg" />
           </div>
           <div class="description">
             <span>Seller memasukan data di dashboard Komship</span>
@@ -64,7 +64,7 @@
             <span>4</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon4.3cf36d9.svg" />
+            <img src="~/assets/alur-icon4.svg" />
           </div>
           <div class="description">
             <span>Ekspedisi menjemput barang ke lokasi seller</span>
@@ -79,7 +79,7 @@
             <span>5</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon5.eb67350.svg" />
+            <img src="~/assets/alur-icon5.svg" />
           </div>
           <div class="description">
             <span>Barang diterima pelanggan</span>
@@ -94,7 +94,7 @@
             <span>6</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon6.0fe152d.svg" />
+            <img src="~/assets/alur-icon6.svg" />
           </div>
           <div class="description">
             <span>Non COD (selesai) / COD (uang diterima)</span>
@@ -109,7 +109,7 @@
             <span>7</span>
           </div>
           <div class="image">
-            <img src="/_nuxt/img/alur-icon7.ec093d9.svg" />
+            <img src="~/assets/alur-icon7.svg" />
           </div>
           <div class="description">
             <span>Dana dicairkan</span>
@@ -127,7 +127,7 @@
               <span>1</span>
             </div>
             <div class="image-mobile">
-              <img src="/_nuxt/img/alur-icon1.ac210df.svg" />
+              <img src="~/assets/alur-icon1.svg" />
             </div>
             <div class="description-mobile">
               <span>Order masuk dari pelanggan</span>
@@ -144,7 +144,7 @@
               <span>Seller menyiapkan orderan</span>
             </div>
             <div class="image-mobile d-flex justify-content-end">
-              <img src="/_nuxt/img/alur-icon2.669de35.svg" />
+              <img src="~/assets/alur-icon2.svg" />
             </div>
             <div class="number-mobile">
               <span>2</span>
@@ -161,7 +161,7 @@
               <span>3</span>
             </div>
             <div class="image-mobile">
-              <img src="/_nuxt/img/alur-icon3.f97f289.svg" />
+              <img src="~/assets/alur-icon3.svg" />
             </div>
             <div class="description-mobile">
               <span>Seller memasukan data di dashboard Komship</span>
@@ -178,7 +178,7 @@
               <span>Ekspedisi menjemput barang ke lokasi seller</span>
             </div>
             <div class="image-mobile d-flex justify-content-end">
-              <img src="/_nuxt/img/alur-icon4.3cf36d9.svg" />
+              <img src="~/assets/alur-icon4.svg" />
             </div>
             <div class="number-mobile">
               <span>4</span>
@@ -195,7 +195,7 @@
               <span>5</span>
             </div>
             <div class="image-mobile">
-              <img src="/_nuxt/img/alur-icon5.eb67350.svg" />
+              <img src="~/assets/alur-icon5.svg" />
             </div>
             <div class="description-mobile">
               <span>Barang diterima pelanggan</span>
@@ -212,7 +212,7 @@
               <span>Non COD (selesai) / COD (uang diterima)</span>
             </div>
             <div class="image-mobile d-flex justify-content-end">
-              <img src="/_nuxt/img/alur-icon6.0fe152d.svg" />
+              <img src="~/assets/alur-icon6.svg" />
             </div>
             <div class="number-mobile">
               <span>6</span>
@@ -229,7 +229,7 @@
               <span>7</span>
             </div>
             <div class="image-mobile">
-              <img src="/_nuxt/img/alur-icon7.ec093d9.svg" />
+              <img src="~/assets/alur-icon7.svg" />
             </div>
             <div class="description-mobile">
               <span>Dana dicairkan</span>

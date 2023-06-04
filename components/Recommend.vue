@@ -16,7 +16,7 @@
         >
           <div class="card my-2">
             <div class="image">
-              <img src="/_nuxt/img/jne-counter.11266aa.png" alt="aje logo" />
+              <img src="~/assets/jne-counter.png" alt="aje logo" />
             </div>
             <span class="content"
               >Makin tenang kirim orderan dengan
@@ -34,10 +34,7 @@
         >
           <div class="card my-2">
             <div class="image">
-              <img
-                src="/_nuxt/img/sicepat-counter.e3994b4.png"
-                alt="sicepat logo"
-              />
+              <img src="~/assets/sicepat-counter.png" alt="sicepat logo" />
             </div>
             <span class="content"
               >Makin <span style="color: #fbbc05">untung</span> dan
@@ -56,10 +53,7 @@
         >
           <div class="card my-2">
             <div class="image">
-              <img
-                src="/_nuxt/img/idexpress-counter.c37f35f.png"
-                alt="idexpress logo"
-              />
+              <img src="~/assets/idexpress-counter.png" alt="idexpress logo" />
             </div>
             <span class="content">
               <span style="color: #fbbc05"
@@ -76,7 +70,7 @@
         >
           <div class="card my-2">
             <div class="image">
-              <img src="/_nuxt/img/sap-counter.45c6087.png" alt="sap logo" />
+              <img src="~/assets/sap-counter.png" alt="sap logo" />
             </div>
             <span class="content"
               >Jagonya <span style="color: #fbbc05">COD</span> dengan cakupan
