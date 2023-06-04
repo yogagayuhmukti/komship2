@@ -1,6 +1,33 @@
 {
+  "Alur": {
+    "description": "Auto imported from components/Alur.vue"
+  },
+  "Benefit": {
+    "description": "Auto imported from components/Benefit.vue"
+  },
+  "Conclusion": {
+    "description": "Auto imported from components/Conclusion.vue"
+  },
+  "ConclusionMobile": {
+    "description": "Auto imported from components/ConclusionMobile.vue"
+  },
+  "Faq": {
+    "description": "Auto imported from components/Faq.vue"
+  },
+  "Feature": {
+    "description": "Auto imported from components/Feature.vue"
+  },
+  "FeatureMobile": {
+    "description": "Auto imported from components/FeatureMobile.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
   "Home": {
     "description": "Auto imported from components/Home.vue"
+  },
+  "Htmlkomship": {
+    "description": "Auto imported from components/htmlkomship.vue"
   },
   "NavBar": {
     "description": "Auto imported from components/NavBar.vue"
@@ -8,7 +35,16 @@
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
+  "Recommend": {
+    "description": "Auto imported from components/Recommend.vue"
+  },
   "Service": {
     "description": "Auto imported from components/Service.vue"
+  },
+  "Testimoni": {
+    "description": "Auto imported from components/Testimoni.vue"
+  },
+  "ToConclusion": {
+    "description": "Auto imported from components/ToConclusion.vue"
   }
 }
