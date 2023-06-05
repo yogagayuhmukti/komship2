@@ -4,20 +4,15 @@
     data-v-a8e75f0e=""
   >
     <div class="container-fluid">
-      <b-navbar-brand class="navbar-brand" href="/"
-        ><a
+      <b-navbar-brand class="navbar-brand" href="/">
+        <img
           href="/"
           aria-current="page"
-          class="navbar-brand nuxt-link-exact-active nuxt-link-active"
+          src="~/assets/new-logo.svg"
+          alt="logo komship"
+          class="image-navbar"
           data-v-a8e75f0e=""
-        >
-          <img
-            src="~/assets/new-logo.svg"
-            alt="logo komship"
-            class="image-navbar"
-            data-v-a8e75f0e=""
-          /> </a
-      ></b-navbar-brand>
+      /></b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
